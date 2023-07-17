@@ -2,4 +2,4 @@
 
 # display listening ports
 
-netstat -tnlp
+netstat -tunlp
