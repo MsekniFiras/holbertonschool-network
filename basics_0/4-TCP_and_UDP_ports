@@ -2,4 +2,4 @@
 
 # display listening ports
 
-sudo netstat -tnlp
+sudo netstat -tunlp
