@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
+#display listening ports
 
-# display listening ports
-
-ss -tnlp
+netstat -tnlp
